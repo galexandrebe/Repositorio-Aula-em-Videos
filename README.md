@@ -1,2 +1,3 @@
 # Repositorio Aula em Videos
- Repositório de  treinamente para o curso do Aula em VIdeo
+ Repositório de  treinamente para o curso do Aula em VIdeo;
+    Será usado para todo o tipo de testes durante o decorrer do curso de Git/GitHub;
